@@ -1,0 +1,60 @@
+{
+  "order": 5,
+  "title": "Kiswa Al-Huriyah",
+  "type": "Logo, website and social media",
+  "category": "Branding",
+  "tools": [
+    "Illustrator",
+    "Photoshop",
+    "Figma"
+  ],
+  "summary": "Work for Kiswa Al-Huriyah, a modest-wear label: an Arabic calligraphy logo, a website concept, Facebook covers and a launch series of social media posts.",
+  "sections": [
+    {
+      "title": "Logo",
+      "layout": "duo",
+      "images": [
+        "logo-dark.webp",
+        "logo-light.webp"
+      ]
+    },
+    {
+      "title": "Website",
+      "layout": "browser",
+      "images": [
+        "website.webp"
+      ]
+    },
+    {
+      "title": "Facebook covers",
+      "layout": "duo",
+      "images": [
+        "fb-cover-1.webp",
+        "fb-cover-2.webp"
+      ]
+    },
+    {
+      "title": "Social media posts",
+      "layout": "grid",
+      "images": [
+        "post-01.webp",
+        "post-02.webp",
+        "post-03.webp",
+        "post-04.webp",
+        "post-05.webp",
+        "post-06.webp",
+        "post-07.webp",
+        "post-08.webp",
+        "post-09.webp",
+        "post-10.webp",
+        "post-11.webp",
+        "post-12.webp",
+        "post-13.webp",
+        "post-14.webp",
+        "post-15.webp"
+      ]
+    }
+  ],
+  "pin": "post-03.webp",
+  "figma": "https://www.figma.com/design/OWyx6msf9CtrgP0f4hsl1I/All-Projects?node-id=6-4128"
+}

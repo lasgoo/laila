@@ -1,0 +1,49 @@
+{
+  "order": 3,
+  "title": "Theta Chain",
+  "type": "Company website",
+  "category": "Web Design",
+  "tools": [
+    "Figma"
+  ],
+  "summary": "A dark-themed website for Theta Chain, a software and technology company. I designed the home, about, services and contact pages, plus a testimonials section and FAQ.",
+  "sections": [
+    {
+      "title": "Home",
+      "layout": "browser",
+      "images": [
+        "home.webp"
+      ]
+    },
+    {
+      "title": "About",
+      "layout": "browser",
+      "images": [
+        "about.webp"
+      ]
+    },
+    {
+      "title": "Services",
+      "layout": "browser",
+      "images": [
+        "services.webp"
+      ]
+    },
+    {
+      "title": "Contact",
+      "layout": "browser",
+      "images": [
+        "contact.webp"
+      ]
+    },
+    {
+      "title": "Testimonials",
+      "layout": "single",
+      "images": [
+        "testimonials.webp"
+      ]
+    }
+  ],
+  "pin": "cover.webp",
+  "figma": "https://www.figma.com/design/OWyx6msf9CtrgP0f4hsl1I/All-Projects?node-id=9-4135"
+}

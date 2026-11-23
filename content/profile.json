@@ -1,0 +1,70 @@
+{
+  "name": "Laila Naeem",
+  "displayName": "Laila",
+  "role": "UI/UX Designer",
+  "alsoKnownFor": "Graphic Designer",
+  "intro": "I create intuitive digital experiences that balance business goals with user needs. My process combines research, strategy, and design execution to deliver measurable results.",
+  "currently": {
+    "role": "UI/UX Designer",
+    "company": "App In Snap"
+  },
+  "email": "riseandroar13@gmail.com",
+  "cv": "/cv/laila-naeem-cv.pdf",
+  "experience": [
+    {
+      "role": "UI/UX Designer",
+      "company": "App In Snap",
+      "period": "Present",
+      "points": [
+        "Designed creative graphics and engaging visual content.",
+        "Created UI layouts and digital designs using Figma.",
+        "Created a complete banking app user flow, including onboarding, transactions, fund transfers, and payment success screens.",
+        "Developed website landing pages with a focus on visual hierarchy, navigation, and user experience.",
+        "Created wireframes, interactive prototypes, and high-fidelity UI designs."
+      ]
+    },
+    {
+      "role": "Graphic Designer",
+      "company": null,
+      "period": "2 years",
+      "points": [
+        "Created logos, brand identities, social media posts, and promotional graphics.",
+        "Designed professional marketing materials and digital advertisements.",
+        "Used Adobe Illustrator and Photoshop for creative design and image editing."
+      ]
+    }
+  ],
+  "skills": [
+    "Figma",
+    "Adobe Illustrator",
+    "Adobe Photoshop",
+    "Canva",
+    "Accessibility"
+  ],
+  "tools": [
+    "Figma",
+    "Photoshop",
+    "Illustrator",
+    "After Effects",
+    "CapCut"
+  ],
+  "education": [
+    {
+      "title": "Bachelor in Computer Science"
+    },
+    {
+      "title": "Intermediate",
+      "grade": "A+"
+    },
+    {
+      "title": "Matric",
+      "grade": "A+"
+    }
+  ],
+  "certifications": [
+    "UI/UX Design",
+    "Graphic Design"
+  ],
+  "figma": "https://www.figma.com/design/OWyx6msf9CtrgP0f4hsl1I/All-Projects",
+  "contactForm": "https://formsubmit.co/ajax/riseandroar13@gmail.com"
+}

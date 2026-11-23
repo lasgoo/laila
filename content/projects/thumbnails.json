@@ -1,0 +1,46 @@
+{
+  "order": 8,
+  "title": "Thumbnails & Posts",
+  "type": "YouTube thumbnails and social posts",
+  "category": "Graphic Design",
+  "tools": [
+    "Photoshop",
+    "Canva"
+  ],
+  "summary": "YouTube thumbnails for film, lifestyle and travel videos, and social media posts for an Eid campaign and a health supplement brand.",
+  "sections": [
+    {
+      "title": "YouTube thumbnails",
+      "layout": "grid-wide",
+      "images": [
+        "thumb-01.webp",
+        "thumb-02.webp",
+        "thumb-03.webp",
+        "thumb-04.webp",
+        "thumb-05.webp",
+        "thumb-06.webp",
+        "thumb-07.webp",
+        "thumb-08.webp",
+        "thumb-09.webp",
+        "thumb-10.webp",
+        "thumb-11.webp",
+        "thumb-12.webp",
+        "thumb-13.webp",
+        "thumb-14.webp",
+        "thumb-15.webp"
+      ]
+    },
+    {
+      "title": "Social media posts",
+      "layout": "grid",
+      "images": [
+        "post-01.webp",
+        "post-02.webp",
+        "post-03.webp",
+        "post-04.webp"
+      ]
+    }
+  ],
+  "pin": "thumb-01.webp",
+  "figma": "https://www.figma.com/design/OWyx6msf9CtrgP0f4hsl1I/All-Projects?node-id=11-6876"
+}

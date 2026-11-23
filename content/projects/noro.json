@@ -1,0 +1,37 @@
+{
+  "order": 1,
+  "title": "Noro",
+  "type": "Mobile banking app",
+  "category": "UI/UX",
+  "tools": [
+    "Figma"
+  ],
+  "summary": "A banking app flow designed in Figma. It covers the main money transfer journey: splash screen, home dashboard, card management, picking a recipient, entering an amount, reviewing the details, confirming with a PIN and the payment success screen.",
+  "sections": [
+    {
+      "title": "Wireframe",
+      "note": "Low-fidelity layout of the home screen, done before the visual design.",
+      "layout": "phones",
+      "images": [
+        "wireframe.webp"
+      ]
+    },
+    {
+      "title": "Transfer flow",
+      "layout": "phones",
+      "images": [
+        "01-splash.webp",
+        "02-home.webp",
+        "03-cards.webp",
+        "04-recipients.webp",
+        "05-send.webp",
+        "06-amount.webp",
+        "07-review.webp",
+        "08-pin.webp",
+        "09-success.webp"
+      ]
+    }
+  ],
+  "pin": "02-home.webp",
+  "figma": "https://www.figma.com/design/OWyx6msf9CtrgP0f4hsl1I/All-Projects?node-id=9-4137"
+}

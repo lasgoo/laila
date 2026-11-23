@@ -1,0 +1,36 @@
+{
+  "order": 6,
+  "title": "MeeramTech",
+  "type": "Company profile deck",
+  "category": "Presentation",
+  "tools": [
+    "Figma"
+  ],
+  "summary": "A company profile presentation for Meeram Group of Companies. The deck introduces the group's companies, key figures, partners and services, then the industries it builds solutions for.",
+  "sections": [
+    {
+      "title": "Slides",
+      "layout": "slides",
+      "images": [
+        "slide-01.webp",
+        "slide-02.webp",
+        "slide-03.webp",
+        "slide-04.webp",
+        "slide-05.webp",
+        "slide-06.webp",
+        "slide-07.webp",
+        "slide-08.webp",
+        "slide-09.webp",
+        "slide-10.webp",
+        "slide-11.webp",
+        "slide-12.webp",
+        "slide-13.webp",
+        "slide-14.webp",
+        "slide-15.webp",
+        "slide-16.webp"
+      ]
+    }
+  ],
+  "pin": "slide-01.webp",
+  "figma": "https://www.figma.com/design/OWyx6msf9CtrgP0f4hsl1I/All-Projects?node-id=9-6874"
+}

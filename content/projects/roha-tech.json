@@ -1,0 +1,22 @@
+{
+  "order": 7,
+  "title": "Roha Tech",
+  "type": "Logo design",
+  "category": "Branding",
+  "tools": [
+    "Illustrator"
+  ],
+  "summary": "Logo for Roha Tech, one of the companies in the Meeram group. Two directions for the mark are shown below.",
+  "sections": [
+    {
+      "title": "Logo",
+      "layout": "duo",
+      "images": [
+        "logo-1.webp",
+        "logo-2.webp"
+      ]
+    }
+  ],
+  "pin": "logo-1.webp",
+  "figma": "https://www.figma.com/design/OWyx6msf9CtrgP0f4hsl1I/All-Projects?node-id=12-7134"
+}

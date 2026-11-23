@@ -1,0 +1,21 @@
+{
+  "order": 2,
+  "title": "Selvion HSE",
+  "type": "Landing page",
+  "category": "Web Design",
+  "tools": [
+    "Figma"
+  ],
+  "summary": "Landing page for Selvion, a health, safety and environment (HSE) management platform for industrial teams. The page moves from the product pitch to its modules, real-time reporting and the industries it serves, and closes with a demo request.",
+  "sections": [
+    {
+      "title": "Landing page",
+      "layout": "browser",
+      "images": [
+        "page.webp"
+      ]
+    }
+  ],
+  "pin": "cover.webp",
+  "figma": "https://www.figma.com/design/OWyx6msf9CtrgP0f4hsl1I/All-Projects?node-id=9-4133"
+}

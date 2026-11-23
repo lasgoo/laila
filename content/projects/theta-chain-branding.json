@@ -1,0 +1,22 @@
+{
+  "order": 4,
+  "title": "Theta Chain Branding",
+  "type": "Brand identity",
+  "category": "Branding",
+  "tools": [
+    "Illustrator",
+    "Photoshop"
+  ],
+  "summary": "Logo and visual identity for Theta Chain, applied across mockups: app icons, business cards, signage, posters and social visuals.",
+  "sections": [
+    {
+      "title": "Identity presentation",
+      "layout": "single",
+      "images": [
+        "brand.webp"
+      ]
+    }
+  ],
+  "pin": "cover.webp",
+  "figma": "https://www.figma.com/design/OWyx6msf9CtrgP0f4hsl1I/All-Projects?node-id=12-6903"
+}
